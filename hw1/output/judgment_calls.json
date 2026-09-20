@@ -1,0 +1,33 @@
+[
+  {
+    "transaction_id": "mixed-walkin-deposit",
+    "included_in_income_statement": "yes",
+    "amount_used_in_income_statement": 560.0,
+    "evidence_for": [
+      "bank_statement_jan2026.pdf",
+      "email_owner_voice_memo.txt"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "transaction_id": "personal-rei",
+    "included_in_income_statement": "no",
+    "amount_used_in_income_statement": 0,
+    "evidence_for": [
+      "credit_card_jan2026.pdf",
+      "email_owner_voice_memo.txt"
+    ],
+    "confidence": "low"
+  },
+  {
+    "transaction_id": "park-tool-card-purchase",
+    "included_in_income_statement": "yes",
+    "amount_used_in_income_statement": 127.4,
+    "evidence_for": [
+      "receipt_park_tool.pdf",
+      "credit_card_jan2026.pdf",
+      "email_owner_voice_memo.txt"
+    ],
+    "confidence": "high"
+  }
+]

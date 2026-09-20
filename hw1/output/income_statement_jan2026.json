@@ -1,0 +1,64 @@
+{
+  "period": "2026-01",
+  "revenue_usd": 8949.41,
+  "expense_lines": [
+    {
+      "label": "cogs_parts",
+      "amount_usd": 1087.98,
+      "category": "cogs_parts",
+      "sources": [
+        "bank_statement_jan2026.pdf",
+        "credit_card_jan2026.pdf",
+        "receipt_nhbp_parts.pdf",
+        "receipt_park_tool.pdf"
+      ]
+    },
+    {
+      "label": "rent",
+      "amount_usd": 1800.0,
+      "category": "rent",
+      "sources": [
+        "bank_statement_jan2026.pdf",
+        "lease_jan2026.pdf"
+      ]
+    },
+    {
+      "label": "shipping",
+      "amount_usd": 28.0,
+      "category": "shipping",
+      "sources": [
+        "credit_card_jan2026.pdf",
+        "receipt_courier.pdf"
+      ]
+    },
+    {
+      "label": "supplies",
+      "amount_usd": 43.17,
+      "category": "supplies",
+      "sources": [
+        "credit_card_jan2026.pdf"
+      ]
+    },
+    {
+      "label": "tools_equipment",
+      "amount_usd": 836.67,
+      "category": "tools_equipment",
+      "sources": [
+        "bank_statement_jan2026.pdf",
+        "credit_card_jan2026.pdf",
+        "ebay_repair_stand.pdf",
+        "receipt_home_depot.pdf"
+      ]
+    },
+    {
+      "label": "utilities",
+      "amount_usd": 89.99,
+      "category": "utilities",
+      "sources": [
+        "bank_statement_jan2026.pdf"
+      ]
+    }
+  ],
+  "total_expenses_usd": 3885.81,
+  "net_income_usd": 5063.6
+}

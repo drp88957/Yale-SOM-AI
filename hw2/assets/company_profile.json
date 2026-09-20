@@ -1,0 +1,160 @@
+{
+  "company_name": "Vancord",
+  "website_url": "https://vancord.com/",
+  "services_offered": [
+    "Security-enabled managed IT services",
+    "Managed detection and response (MDR)",
+    "Managed security services (MSSP)",
+    "24/7/365 Security Operations Center (SOC) monitoring and response",
+    "Threat intelligence",
+    "Containment and restoration services",
+    "Continuous vulnerability management",
+    "Dark web monitoring",
+    "Security gap analysis",
+    "User lifecycle management",
+    "Hardware as a Service (HaaS)",
+    "Cybersecurity program development, including vISO and vDPO services",
+    "CMMC compliance",
+    "Cybersecurity readiness and risk assessments",
+    "Security awareness training and phishing services",
+    "Privacy and compliance audits, including FERPA, NIST, and DFARS",
+    "Tabletop exercises and incident response testing",
+    "AI readiness services",
+    "Incident readiness",
+    "IT infrastructure and support",
+    "Cloud and Microsoft 365 security",
+    "Identity and access management, including MFA and SSO",
+    "Cybersecurity incident response",
+    "Penetration testing",
+    "Vulnerability assessment",
+    "Public, private, and hybrid cloud migration",
+    "Complete IT infrastructure lifecycle services",
+    "E-Rate managed security services"
+  ],
+  "ideal_customer_profile": {
+    "industries": [
+      "Manufacturing",
+      "Education, including K-12 and higher education",
+      "Public sector, local government, and public safety",
+      "Healthcare",
+      "Financial services",
+      "Nonprofits and NGOs",
+      "Legal and professional services"
+    ],
+    "organization_sizes": [
+      "Mid-market and large organizations",
+      "Organizations of all sizes (stated on the contact page)"
+    ],
+    "geographies": [
+      "New England",
+      "The Northeast for managed IT services",
+      "Nationwide for cybersecurity services"
+    ],
+    "technology_environments": [
+      "Endpoint, cloud, and network environments",
+      "Microsoft 365 environments",
+      "Identity and access environments using MFA and SSO",
+      "EDR, XDR, and SIEM platforms",
+      "Microsoft Defender, CrowdStrike, Sentinel, and Elastic integrations",
+      "Manufacturing OT and ICS environments",
+      "Public, private, and hybrid cloud environments"
+    ]
+  },
+  "business_problems_solved": [
+    "Cyber threats, ransomware, data breaches, and cyberattacks",
+    "Security alert monitoring, investigation, triage, and containment gaps",
+    "Downtime, data loss, and business disruption",
+    "Insufficient internal 24/7 security operations capacity",
+    "Vulnerability and security-control gaps",
+    "Compliance and audit readiness challenges",
+    "Weak identity and access controls",
+    "Phishing and insufficient security awareness",
+    "Reactive or inconsistent IT support",
+    "Infrastructure modernization and cloud migration needs",
+    "Incident response, remediation, and business continuity needs",
+    "Manufacturing OT/ICS and supply-chain cyber risk"
+  ],
+  "proof_and_differentiators": [
+    "States that it has operated since 2005 and serves organizations across New England.",
+    "Describes itself as a Milford, Connecticut-based MSSP with 24/7 SOC monitoring, incident response, CMMC compliance, and managed IT security.",
+    "States that each client receives a dedicated team rather than a shared support pool.",
+    "SOC positioning includes U.S.-based analysts, human-led investigations, automated/SOAR-powered containment, rapid escalation, and support for existing security tools.",
+    "Publishes case studies involving ransomware remediation, penetration testing and SOC monitoring for a school district, nonprofit IT modernization, manufacturing, and prevention of a cyberattack at Ball Chain.",
+    "Website displays client testimonials from education, manufacturing, financial services, public safety, nonprofit, and other organizations."
+  ],
+  "sensitive_data_or_compliance_sectors": [
+    "Education and student data: FERPA and CIPA",
+    "Healthcare and patient data: HIPAA",
+    "Financial services and regulated financial organizations",
+    "Public sector and public safety: CJIS",
+    "Defense contractors and DoD-related environments: CMMC and DFARS",
+    "Organizations using NIST-aligned security and compliance practices",
+    "Manufacturing intellectual property, operational technology, and supply-chain environments"
+  ],
+  "sources": [
+    {
+      "url": "https://vancord.com/",
+      "title": "Managed Security Services Provider Connecticut | Vancord",
+      "supports": [
+        "Company identity, Connecticut location, operation since 2005, New England coverage, MSSP positioning, core services, target mid-to-large organizations, client examples, and testimonials"
+      ]
+    },
+    {
+      "url": "https://vancord.com/about/",
+      "title": "About Us | Vancord Cybersecurity",
+      "supports": [
+        "Company mission and positioning as an IT and cybersecurity company, proactive infrastructure and data-security approach, incident response, and service categories"
+      ]
+    },
+    {
+      "url": "https://vancord.com/services/",
+      "title": "Our Comprehensive Cybersecurity Services | Vancord",
+      "supports": [
+        "Detailed service portfolio, managed services, threat detection, vulnerability scanning, compliance support, incident response, SOC, and infrastructure projects"
+      ]
+    },
+    {
+      "url": "https://vancord.com/industries/",
+      "title": "Industry-Specific Cybersecurity Solutions | Vancord",
+      "supports": [
+        "Manufacturing, education, public-sector, healthcare, legal, nonprofit, and professional-services focus; associated risks and compliance references"
+      ]
+    },
+    {
+      "url": "https://vancord.com/case-studies/",
+      "title": "Case Studies | Vancord Cybersecurity",
+      "supports": [
+        "Published customer engagements involving ransomware remediation, school penetration testing and SOC monitoring, nonprofit modernization, manufacturing, and cyberattack containment"
+      ]
+    },
+    {
+      "url": "https://vancord.com/contact/",
+      "title": "Contact Us | Vancord Cybersecurity",
+      "supports": [
+        "Milford and Glastonbury offices, Northeast managed-IT coverage, nationwide cybersecurity coverage, emergency response, and statement that services are available to businesses of all sizes"
+      ]
+    },
+    {
+      "url": "https://vancord.com/partners-security-certifications/",
+      "title": "Partners & Security Certifications - Vancord",
+      "supports": [
+        "Statement that Vancord collaborates with technology providers and security experts; Fortinet partnership and FortiGate-related capability"
+      ]
+    },
+    {
+      "url": "https://vancord.com/security-operations-center-soc/",
+      "title": "Real-Time Threat Monitoring & Response | SOC Services by Vancord",
+      "supports": [
+        "24/7/365 SOC claims, U.S.-based analysts, endpoint/cloud/network monitoring, EDR/XDR/SIEM support, SOAR-powered response, tool integrations, compliance reporting, and SOC target sectors"
+      ]
+    }
+  ],
+  "research_date": "2026-09-17",
+  "notes": [
+    "Technology signals are kept as environment and integration evidence; they should not be interpreted as proof that Vancord exclusively uses or supports every named platform in every engagement.",
+    "The partners and security certifications page contains headings for certifications but the fetched public text does not list specific certifications. No certification was therefore recorded as confirmed.",
+    "The website states both a focus on mid-to-large organizations and that it provides services to businesses of all sizes; both statements are retained with that distinction.",
+    "The website gives New England and Northeast geographic positioning for managed IT and says cybersecurity services are available nationwide; international coverage was not evidenced.",
+    "Some customer names and outcomes appear in first-party testimonials and case-study summaries. They are recorded as website claims, not independently verified results."
+  ]
+}

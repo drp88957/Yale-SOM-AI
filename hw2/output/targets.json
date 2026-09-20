@@ -1,0 +1,56 @@
+[
+  {
+    "company_name": "Willington Nameplate, Inc.",
+    "website_url": "https://wnpinc.com/",
+    "location": "Stafford Springs, Connecticut",
+    "industry": "Aerospace, defense, automotive, and industrial OEM manufacturing",
+    "size_or_context": "Manufactures custom nameplates, UID/IUID labels, data plates, control-panel overlays, and related identification products; the site says it has implemented Department of Defense cybersecurity protocols and operates as an ESOP.",
+    "contact_email": "jstachelsky@wnpinc.com",
+    "fit_reasons": [
+      "The site publicly reports a 90 SPRS score and says it is positioning for Level 2 CMMC compliance.",
+      "Its aerospace and defense work creates a directly relevant CMMC, DFARS, and controlled-information security context for Vancord's compliance, readiness assessment, vulnerability management, and incident-readiness services.",
+      "Its manufacturing environment is relevant to Vancord's manufacturing OT/ICS, ransomware protection, and supply-chain risk focus."
+    ],
+    "source_urls": [
+      "https://wnpinc.com/"
+    ],
+    "research_date": "2026-09-17"
+  },
+  {
+    "company_name": "Mott Corporation",
+    "website_url": "https://www.mottcorp.com/",
+    "location": "Farmington, Connecticut",
+    "industry": "Advanced filtration and flow-control manufacturing",
+    "size_or_context": "A unit of IDEX Corporation with headquarters and a Customer Innovation Center in Farmington; the site describes more than 65 years of experience and products/applications spanning aerospace and defense, healthcare, microelectronics, food, chemical processing, and manufacturing.",
+    "contact_email": null,
+    "fit_reasons": [
+      "The site shows a complex industrial and engineering environment with two Farmington facilities and broad, technically sensitive applications.",
+      "Mott's privacy materials reference physical security, IT security, data-breach procedures, and compliance controls, indicating a publicly documented information-protection need.",
+      "Its aerospace, defense, healthcare, microelectronics, and industrial work aligns with Vancord's managed detection and response, vulnerability management, cloud/Microsoft 365 security, and compliance-readiness services."
+    ],
+    "source_urls": [
+      "https://www.mottcorp.com/",
+      "https://www.mottcorp.com/contact/",
+      "https://www.mottcorp.com/business-contact-privacy-notice/"
+    ],
+    "research_date": "2026-09-17"
+  },
+  {
+    "company_name": "Boston Medical Center Health System",
+    "website_url": "https://www.bmc.org/",
+    "location": "Boston, Massachusetts",
+    "industry": "Healthcare and hospital system",
+    "size_or_context": "The site describes Boston Medical Center, BMC Brighton, and BMC South as an integrated health system; it provides care in more than 70 specialties and uses clinical, research, patient, and operational information systems.",
+    "contact_email": "privacyofficer@bmc.org",
+    "fit_reasons": [
+      "BMC publicly states that it handles protected health information and adheres to HIPAA, HITECH, Part 2, and Massachusetts privacy requirements.",
+      "Its privacy page describes safeguards, workforce training, unauthorized-access controls, breach/confidentiality response, and a 24/7 compliance hotline—clear evidence of a substantial security and compliance operating context.",
+      "Vancord's healthcare fit and services such as 24/7 SOC monitoring, incident response, vulnerability management, security gap analysis, and HIPAA/privacy support are directly relevant."
+    ],
+    "source_urls": [
+      "https://www.bmc.org/",
+      "https://www.bmc.org/privacy"
+    ],
+    "research_date": "2026-09-17"
+  }
+]

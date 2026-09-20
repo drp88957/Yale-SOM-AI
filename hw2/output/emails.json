@@ -1,0 +1,35 @@
+[
+  {
+    "target_company": "Willington Nameplate, Inc.",
+    "to": "jstachelsky@wnpinc.com",
+    "subject": "Supporting Willington Nameplate's CMMC readiness",
+    "body": "Hello Willington Nameplate team,\n\nI noticed on your site that you achieved a 90 SPRS score and are preparing for Level 2 CMMC compliance, while serving aerospace and defense customers. That is a strong foundation—but maintaining readiness across endpoints, networks, Microsoft 365, and manufacturing operations can be difficult as requirements evolve.\n\nVancord helps manufacturers with cybersecurity readiness and risk assessments, continuous vulnerability management, 24/7 SOC monitoring, incident response, and CMMC/DFARS support. We can also work with the tools and controls you already have rather than requiring a wholesale replacement.\n\nWould a brief conversation about your next CMMC-readiness priorities be useful?\n\nBest,\nVancord team",
+    "evidence_used": [
+      "https://wnpinc.com/"
+    ],
+    "send_status": "draft_only"
+  },
+  {
+    "target_company": "Mott Corporation",
+    "to": null,
+    "subject": "A practical security-monitoring option for Mott's industrial environment",
+    "body": "Hello Mott team,\n\nMott's site describes a technically complex operation spanning two Farmington facilities and applications in aerospace and defense, healthcare, microelectronics, and industrial processing. Your privacy materials also reference IT-security controls, data-breach procedures, and compliance requirements.\n\nVancord provides managed detection and response, continuous vulnerability management, incident readiness, and security gap assessments for organizations that need stronger coverage without building a 24/7 security operation internally. Our team can assess existing endpoint, cloud, and network controls and identify practical next steps.\n\nWould it be reasonable to compare notes on how Mott currently handles after-hours monitoring and incident response?\n\nBest,\nVancord team",
+    "evidence_used": [
+      "https://www.mottcorp.com/",
+      "https://www.mottcorp.com/contact/",
+      "https://www.mottcorp.com/business-contact-privacy-notice/"
+    ],
+    "send_status": "draft_only"
+  },
+  {
+    "target_company": "Boston Medical Center Health System",
+    "to": "privacyofficer@bmc.org",
+    "subject": "Reducing after-hours security and HIPAA response gaps",
+    "body": "Hello BMC Privacy Office,\n\nBMC's patient-privacy page describes a multi-location health system handling protected health information under HIPAA, HITECH, Part 2, and Massachusetts requirements. It also notes safeguards, workforce training, unauthorized-access controls, and breach/confidentiality response.\n\nVancord supports healthcare organizations with 24/7/365 SOC monitoring, managed detection and response, vulnerability management, incident-response planning, and security gap analysis. The goal is to help internal teams investigate and contain threats quickly while producing useful compliance evidence.\n\nIf cybersecurity operations is handled by another team, would you be willing to point me to the appropriate security or IT contact? Otherwise, would a short discussion about after-hours monitoring be appropriate?\n\nBest,\nVancord team",
+    "evidence_used": [
+      "https://www.bmc.org/",
+      "https://www.bmc.org/privacy"
+    ],
+    "send_status": "draft_only"
+  }
+]
