@@ -242,3 +242,161 @@ AI-drafted pages flagged these details as uncertain. Check them against the book
 - Ch. 19: A3 paper size about 11 by 17 inches.
 - Ch. 20: Five whys oil table and countermeasures at each level; hansei explained through Japanese child-rearing; "no problem is a problem."
 - Ch. 21-22: Summaries kept general; check the main messages.
+
+## The Everything Store
+- Chapter list used: Prologue; Part One "Faith" (1 The House of Quants, 2 The Book of Bezos, 3 Fever Dreams, 4 Milliravi); Part Two "Literary" (5 Rocket Boy, 6 Chaos Theory, 7 A Technology Company, Not a Retailer, 8 Fiona); Part Three "Missionary or Mercenary?" (9 Liftoff!, 10 Expedient Convictions, 11 The Kingdom of the Question Mark); Epilogue; appendix "Jeff's Reading List". Check part names and chapter titles.
+- Which chapter holds which events in Parts Two and Three is the least certain part: two-pizza teams/fitness functions and Prime (Ch. 6 or 7?), the andon cord and Bezos's harsh one-liners like "lazy or just incompetent" (Ch. 6 or 11?), Zappos (Ch. 9 or 10?), Quidsi/Diapers.com (card says Ch. 10; could be Ch. 9).
+- The six-page memo / silent reading / press release material is placed in the Prologue (alongside the "narrative fallacy" question). Check that it is there and not only in a later chapter.
+- Ch. 9 "Liftoff!" content is written generally (post-2008 momentum, Zappos). Check what the chapter actually covers (possibly Blue Origin, given the title).
+- Epilogue is written very generally. Check what Stone actually covers there (e.g. Jorgensen follow-up, Washington Post).
+- Jeff's Reading List: check that it includes The Goal, Good to Great, Built to Last, The Innovator's Dilemma, Lean Thinking, The Black Swan, Made in America and The Remains of the Day.
+- Figures: web growth of about 2,300 percent a year; ~70 percent chance investors would lose money; Kleiner Perkins about $8 million; IPO May 1997 at $18 a share; ~1,300 layoffs (~15 percent) in early 2001; Kindle November 2007 at $399, sold out within hours; Quidsi sale in 2010 for about $545 million; Prime 2005 at $79; S3 and EC2 in 2006; Kiva 2012.
+- Ch. 1 details: MacKenzie studied under Toni Morrison and "fell for his laugh"; the lawyer misheard Cadabra as "cadaver"; Bezos left mid-year and gave up his bonus; Bezos wanted a "resourceful" partner; three reasons for Seattle (talent, near an Oregon book wholesaler, small population for sales tax).
+- Ch. 2: the Riggio dinner and its "crush you" message; Barnes & Noble's lawsuit over "Earth's Biggest Bookstore"; Bezos's "fear customers, not competitors" talk; bar raisers; Walmart's poaching lawsuit. Check that these are in Ch. 2 and not Ch. 3.
+- Ch. 3: an outside president/COO who left after about a year (Joe Galli, unnamed on the page); Seattle staff sent to warehouses for Christmas 1999.
+- Ch. 4: Jim Sinegal meeting and Jim Collins flywheel talk both in this chapter; European convertible bond raise just before the crash; closed warehouse in Georgia; "milliravi" described as an internal joke unit of bad news.
+- Ch. 5: Stone found Ted Jorgensen at a bike shop in Arizona and Jorgensen didn't know; Montessori teachers moving Jeff in his chair; rebuilt bulldozer on Pop's ranch; Princeton physics-to-EE/CS switch; 2003 helicopter crash; Star Trek fan and high school speech about living in space.
+- Ch. 7: EC2 built in Cape Town by Chris Pinkham's team; Jassy as Bezos's technical adviser/"shadow"; the "primitives" idea; Bezos's line that communication is a sign of dysfunction.
+- Ch. 8: Lab126 in Cupertino and the A-to-Z meaning; "Fiona" from The Diamond Age; branding consultants named it Kindle; the cheetah/sickly gazelle line and the lawyers' blander rename; Macmillan buy buttons removed (both print and Kindle) and Amazon's "monopoly over its own titles" statement; DOJ suit in 2012.
+- Ch. 10: Quidsi saw Amazon's prices respond to its own; Amazon Mom; Walmart talks; regulators reviewed the deal; Amazon warned it would keep pressing if Quidsi chose Walmart; Allentown-area warehouse heat story (2011).
+- Ch. 11: the "?" email; customer service andon cord; door desks kept as a frugality symbol; missionary vs mercenary framing.
+
+## Shoe Dog
+- Customs bill (1977): about $25 million in back duties under the "American Selling Price" rule; settled in 1980 for about $9 million. Check both figures and the years.
+- IPO date: December 2, 1980. Check the date.
+- Nike made a cheap shoe in the U.S. as part of the customs fight. Check that the book says this and what the shoe was.
+- 1975 bank crisis: the bank froze accounts, refused checks and called the FBI. Ito of Nissho paid off the debt. Check that the bank was First National Bank of Oregon, and Ito's exact role (did he go to the bank in person and scold the bankers?).
+- Sumeragi of Nissho: was he based in Portland, and did he quietly hold back or hide invoices so Blue Ribbon could fall behind on payments?
+- 1970 stock offering mostly flopped; Woodell's parents lent the company their savings. Check the year and that it was savings lent, not shares bought.
+- Onitsuka "majority stake" (51%) proposal: check the year and whether it came from Kitami.
+- Kitami's briefcase (1971): the folder held a list of U.S. shoe distributors Onitsuka had contacted. Check the year, the number on the list (I recall about 18) and whether Knight took the folder.
+- The 1965 scare: another American approached Onitsuka, and Knight flew to Japan and secured the western states. Check the year and the territory.
+- First Nike shoes were made in a factory in Mexico. Check.
+- Bowerman partnership: $500 each, Knight with the larger share (51/49?), John Jaqua drew up the papers; lunch in early 1964. Check.
+- Knight's first order size ("a few hundred pairs", I recall 300) and first-year sales (I recall about $8,000). Left out of the pages; add if confirmed.
+- Price Waterhouse and Delbert Hayes: check that Knight met Hayes there and that Hayes later joined the company.
+- Jeff Johnson: first full-time employee in 1965? First store in Santa Monica in 1966? Index cards and birthday cards for customers? Was he reluctant to move east?
+- The Patton line ("don't tell people how to do things, tell them what to do and let them surprise you"): check that Knight quotes it and in what context.
+- Bob Woodell: year hired (I wrote 1967) and the nature of his accident.
+- Cortez: first called the Aztec, renamed because of an Adidas shoe; Bowerman suggested Cortez. Check the year.
+- Penny Parks: Knight's student at Portland State; married in 1968? Check.
+- Carolyn Davidson: $35 for the Swoosh, paid by the hour; later given Nike stock. Check the stock gift is in the book.
+- "Dimension Six" was Knight's choice; Johnson's dream gave "Nike"; Knight's reasoning that strong brand names are short with a hard sound. Check.
+- Waffle iron: liquid rubber or urethane? Bowerman's wife Barbara? Waffle soles worn at the 1972 Olympic trials; Waffle Trainer launched in 1974. Check all.
+- Bowerman's health damaged by glues and solvents. Check.
+- Prefontaine: fourth in the 5,000 at Munich 1972; died in a car crash in Eugene in 1975 at 24, after a meet he organized with European runners. Did he win that race? Did Nike give him a job title? Did he send Nike shoes to other runners? Is the roadside shrine in the book?
+- Trial (1974): federal court in Portland, Doug Houser (cousin) and Rob Strasser as lawyers; Knight testified badly; Kitami's testimony fell apart; Onitsuka later paid a settlement. Check the settlement and how the name rights (Cortez, Boston) were split.
+- Frank Rudy's air sole: met in 1977? Tailwind in 1979 with early problems? Check.
+- Knight's 1980 trip to China. Check the year.
+- Hawaii: Carter stayed behind; Knight sold encyclopedias, then securities. Check.
+- In Tokyo Knight got advice from American veterans who ran a trade magazine. Check.
+- "Buttface" retreats: check the name and the year they are first described.
+- Night: son Matthew died in a scuba diving accident; Knight discusses factory-conditions criticism. Check.
+- Father "lawyer turned newspaper publisher" who paid for the trip. Check.
+
+## The Airbnb Story
+- Chapter titles and numbers: Ch. 1 "Not the Best Idea" and Ch. 2 "Building a Business" are fairly confident. Ch. 3 "Building a Culture", Ch. 4 "What Could Possibly Go Wrong?", Ch. 5 "The Bad and the Ugly" and Ch. 7 "Learning to Lead" are best guesses. Ch. 6 (hotels) and Ch. 8/afterword (what's next) use descriptive placeholders, not the book's real titles. Check the table of contents and fix the `source:` lines on all 10 cards.
+- Which chapter holds which episode: is the NY photo trip / Y Combinator in Ch. 1 or Ch. 2? Is EJ in Ch. 4 or Ch. 5? Is discrimination in Ch. 4 or Ch. 5? Is Chip Conley in the hotels chapter or the leadership chapter? Is the Wimdu clone war in Ch. 2 or Ch. 3?
+- First guests: a woman from Boston, a man from India, a father from Utah, about $80 a night each. Check these details and the price.
+- Gebbia's first student product was a seat cushion for critiques (CritBuns). Check.
+- Blecharczyk: Gebbia's former roommate, Harvard computer science, made money writing software as a teen. Check.
+- The Austin (SXSW) 2008 relaunch got very few bookings. Check.
+- Investor rejections: how many investors were approached and how many passed (I left the numbers out). Chesky later posted rejection emails publicly. Check.
+- Chesky kept his credit cards in a baseball-card binder. Check.
+- Cereal: $40 a box, numbered, hand-assembled. Slogans "the breakfast of change" / "a maverick in every bite". Obama O's sold out. Total raised (about $30,000? I wrote "tens of thousands"). Check.
+- Paul Graham's "cockroaches" remark: check the wording.
+- Y Combinator batch: winter 2009. Check.
+- New York photos: rented camera; New York weekly revenue "roughly doubled". Check the figure.
+- "Ramen profitable" goal reached during YC. Check.
+- Sequoia (Greg McAdoo) invested about $600,000 in 2009 (I recall $585,000). Check.
+- 2010 Greylock round; 2011 Andreessen Horowitz round valuing Airbnb above $1 billion. Check.
+- Wimdu: Samwer brothers' clone launched 2011 with heavy funding and hundreds of hires. Its backers suggested Airbnb buy it. Airbnb bought Accoleo and opened offices across Europe within months. "Missionaries vs mercenaries" framing. Check all.
+- Pixar artist hired to storyboard the host/guest journey. Check.
+- Thiel's "Don't f*** up the culture" advice came after Founders Fund invested (year?). Chesky's memo to employees about it. Check.
+- Core values interviews run by people outside the hiring team. Chesky personally interviewed many early hires and hired slowly. "Be a cereal entrepreneur" was an early value. Check.
+- HQ meeting rooms copied real listings. Check.
+- 2014 "Belong Anywhere" rebrand, Bélo logo, mocked online. Check.
+- EJ: June 2011 blog post; locked closet broken into; items burned in the fireplace; stolen items (camera, computer, jewelry, birth certificate); a second host story surfaced. Check.
+- Chesky letter on August 1, 2011: "we have really screwed things up". Check the date and quote.
+- $50,000 Host Guarantee; I said the original plan was a smaller number and Chesky was pushed to raise it. Check who suggested this. Raised to $1 million in 2012. 24-hour hotline. Check.
+- Discrimination: Harvard Business School study (names test); #AirbnbWhileBlack in 2016; a Black guest who was accepted by the same host using fake white profiles (Gregory Selden?) and later sued. Chesky's "three white guys" admission. Laura Murphy (ACLU) report; Eric Holder adviser; community commitment; Instant Book push; "Open Doors" policy. Chesky's 2016 letter to the community. Check.
+- New York: 2010 law (under 30 days, buildings with 3+ units, resident not present). Nigel Warren fined in 2013. Schneiderman subpoena; a judge first sided with Airbnb (I said this, so check it); anonymized data handed over. October 2014 report: most rentals studied appeared illegal, and a small share of hosts (commercial operators) earned a large share of revenue (6% / 37%?). I left exact numbers out. Check.
+- 2016 New York advertising law; Airbnb sued, then dropped the suit. Check.
+- SF Proposition F (2015): Airbnb spent millions and won; snarky hotel-tax billboards, then an apology. Check.
+- Chris Lehane hired to lead policy. "One host, one home" policies in some cities. Check.
+- Chip Conley: founded Joie de Vivre in his twenties; joined in 2013 as head of global hospitality and strategy; helped create standards/Superhosts; helped organize the first Airbnb Open; mentor to Chesky. Check his title and how much credit the book gives him for Superhosts and the Open.
+- Research suggesting Airbnb hurt lower-end hotels and limited peak pricing. Check.
+- Chesky's "go to the source" sources: Buffett, Sandberg, Jony Ive, Bob Iger (I also put Marc Andreessen and Reid Hoffman in the book page). He read about Walt Disney. He wrote regular messages to staff. Check names.
+- Gebbia's fear of public speaking (book page). Blecharczyk's role in Airbnb's China expansion. Check.
+- Trips / Experiences launched at the 2016 Airbnb Open in Los Angeles. Check.
+- Valuation of roughly $30 billion at the time of the book. Check.
+
+## Screw It, Let's Do It
+- Chapter placement of every story is from memory. Check which chapter each sits in: swimming bet ("Just Do It!"), student magazine ("Just Do It!"), cancelled flight and Virgin Atlantic lease ("Be Bold"), ballooning and powerboat ("Challenge Yourself"), walk home and bike ride ("Stand on Your Own Feet"), mirror and night in a cell ("Have Respect").
+- Chapter list and sub-rules (Have goals, Prepare well, Never give up, etc.) are reconstructed from memory. Check the exact table of contents, and whether there is an "Introduction" and a closing section.
+- Swimming bet: age about four, Devon holiday, Aunt Joyce, ten shillings, river on the drive home, father stopped the car, swam in underpants. Check all of these.
+- Walk home: age about four, "a few miles" from home, across fields, took hours. Check the age and distance.
+- Bike ride: age about twelve, sent off before dawn in winter to relatives a long way away (I have a memory of about 50 miles), back the next day, mother then set him another chore. Check the details and whether Branson comments that it sounds harsh today.
+- Mirror: mother made him stand in front of a mirror if he spoke badly of anyone. Check the exact form (and whether a time like "ten minutes" is given; I left it out).
+- Night in a cell: dishonesty over tax on records in his early twenties, one night in a cell, parents helped, he paid back what he owed. Check whether this story is in this book at all, or only in Losing My Virginity. No amounts are given on the page.
+- Student magazine: started at school with a friend; left at sixteen; headmaster's "prison or millionaire" line; mail-order records led to Virgin. Check the age and that the headmaster quote is in this book.
+- Name "Virgin" from being "virgins at business": check it is in this book and in the "Have Fun!" chapter.
+- Cancelled flight to the British Virgin Islands, chartered plane, blackboard reading "Virgin Airways": check it is in this book (not only in Losing My Virginity) and the chapter.
+- Virgin Atlantic: called Boeing, leased a second-hand 747 that could be handed back if the airline failed; colleagues thought it madness; this was a "Screw it, let's do it" moment. Check each point. I left out the name of the person who first proposed the airline and any lease length.
+- Ballooning: Per Lindstrand; first hot-air balloon across the Atlantic; jet stream; hit the ground on landing, lost fuel tanks, shot back up; Per jumped into the sea; Branson alone, later jumped and was rescued; later Pacific crossing and round-the-world attempts. Check how much of this the book covers.
+- Powerboat Blue Riband attempt: first boat sank, later attempt succeeded. Check it is in this book.
+- Publicity stunts in "Have Fun!": kept general. Check whether the book names specific ones (wedding dress, tank in Times Square, etc.).
+- Family: mother Eve, father Ted (a lawyer who hoped Richard would follow him into law), wife Joan, children Holly and Sam. Check names and that the father detail is in this book.
+- "Live the Moment": I mentioned older family members staying active late in life, kept general. Check (possibly his grandmother's late-life achievements).
+- "Look after your staff and they will look after your customers" and promoting from within: check these appear in "Value Family and Friends."
+
+## Cold Steel
+- Mittal born 1950 in Sadulpur, Rajasthan; father Mohan Lal Mittal moved family to Calcutta. Does the book describe his childhood home as modest/crowded?
+- Indonesia mini-mill near Surabaya, mid-1970s (1976?). Did the brothers/Indian business split happen as described (brothers kept India, Lakshmi took abroad), and when?
+- Trinidad and Tobago (Iscott), late 1980s (1989): first managed under contract, then bought; staffed with managers brought from India. Exact losses not stated in wiki.
+- Mexico (Sicartsa, 1992) bought "for a small fraction of what it cost to build" (often quoted ~$220m vs $2bn+). Canada = Sidbec-Dosco in Quebec; Germany = Hamburg plant. Check these are in the book.
+- Kazakhstan Temirtau (Karmet) bought 1995; unpaid wages, plant heated town; Mittal team paid wages and kept heat on. Confirm these details are the book's.
+- Ispat International IPO 1997 in New York and Amsterdam; Inland Steel (Chicago) 1998.
+- Romania Sidex Galati and the Tony Blair letter / Labour donation row: is this covered in the book, and how?
+- ISG (Wilbur Ross) combination in 2004 creating Mittal Steel; Kensington Palace Gardens house; Vanisha's 2004 wedding at Versailles and Vaux-le-Vicomte.
+- Aditya Mittal as CFO and driving force of the Arcelor bid.
+- "How Mittal Ran His Empire" section (small London HQ, knowledge sharing between plants) is a general characterisation; check it matches the book.
+- Kryvorizhstal: 2004 insider privatisation cancelled after the Orange Revolution; live televised auction Oct 2005; Mittal won at ~$4.8bn versus an Arcelor-led group.
+- Dofasco: Arcelor beat ThyssenKrupp in early 2006; Mittal promised to sell Dofasco to ThyssenKrupp; Arcelor put it into a Dutch stichting.
+- January 2006 dinner at Mittal's London home with Dollé (date often given as 13 Jan); Mittal phoned Dollé shortly before the 27 Jan announcement.
+- Bid terms: 27 Jan 2006, ~€18.6bn, cash and shares, ~27% premium; combined ~10% of world output.
+- Dollé quotes: "monnaie de singe"; perfume vs eau de cologne; "a company of Indians." Check exact wording and context in the book.
+- Politicians: Juncker, Krecké (Luxembourg); de Villepin, Breton, Chirac (France). Breton summoning Mittal to Paris; Mittal's first Luxembourg meeting going badly; Luxembourg takeover law angle.
+- Indian government protest (likely Kamal Nath, commerce minister); European Commission warning to states (likely Charlie McCreevy). Names left out of wiki.
+- Unions' concerns and Mittal meeting unions; hedge funds buying into Arcelor after the bid; general characterisations.
+- Raised offer May 2006 (~19 May): ~€25.8bn, with reduced family stake.
+- Severstal: announced 26 May 2006; Mordashov to get ~32%; deal blockable only by >50% of all shares at a meeting (30 June); Mordashov's attempt to sweeten terms.
+- Final deal: 25 June 2006, ~€26.9bn, ~€40.37/share; Mittal family stake (~43.5%); Kinsch chairman, Mittal president, Dollé out; Mordashov break fee (~€140m); HQ in Luxembourg. Roland Junck as first CEO not mentioned in wiki.
+- Board split and Kinsch's role in opening talks: general characterisation; check.
+- Book subtitle not used in H1 (UK and US subtitles differ); H1 is just "Cold Steel".
+
+## Start-up Nation
+- Chapter numbers and titles in Parts One to Three (Ch. 1 "Persistence" through Ch. 8 "Buffett's Test") are from memory. Check each against the table of contents.
+- Intel / Centrino card is placed in Ch. 3 "The People of the Book". This placement is the least certain. The story may sit in Ch. 1 or elsewhere.
+- PillCam / Given Imaging card is placed in Ch. 5 "Where Order Meets Chaos". Check the chapter, and that Gavriel Iddan (Rafael electro-optics) and a gastroenterologist met during a stay in the U.S. as described.
+- Part Four and Part Five chapter titles and numbers were not recalled. The book page uses descriptive headings there. The Yozma card cites "(Part IV, "Government as Catalyst")" instead of a chapter number. Add the real chapter number and title.
+- Ch. 6 subtitle "The Story of Gaon": confirm the title, and who or what "Gaon" refers to (not explained on the pages).
+- Better Place (Introduction): the WEF Young Global Leaders question, Agassi's sale of his company to SAP, Peres as champion, Renault-Nissan / Carlos Ghosn, Denmark as second market, and the size of the funding round (left vague as "a very large amount").
+- Intro statistics: about 7 million people; more NASDAQ companies than any country outside North America; VC per person about 2.5 times the U.S. and dozens of times Europe; top R&D spending as a share of GDP.
+- PayPal: Scott Thompson's title (president), founders Shvat Shaked and Saar Wilf, the "find the good guys" method, the test on old transactions, and that PayPal bought Fraud Sciences. Price (about $169 million in 2008?) was left out.
+- Iscar: about $4 billion for a large majority stake (80%?) in 2006; Stef and Eitan Wertheimer; the plant near the Lebanese border; Buffett's visit after the war; the "skip Israel if you want oil... brains, energy and integrity" quote.
+- Ch. 8 also mentions Intel's Israeli plant staying open during the 1991 Gulf War missile attacks (Dov Frohman?). Confirm it is in this chapter.
+- Wertheimer family building industrial parks in the north, partly to bring Jews and Arabs into the same workplaces (book page only). Confirm.
+- IDF: "rosh gadol / rosh katan", thin senior-officer layer, the 1973 war as a lesson in improvising, and the reserve role reversal (a junior employee commanding his boss). Confirm which chapter (2 or 5) holds each point.
+- Talpiot: origin after 1973, Song of Songs name, physics and math degree plus tours of all branches, long service commitment. Founders (Felix Dothan and Shaul Yatziv?) were left out. Unit 8200 mention.
+- Operation Solomon (1991): more than 14,000 people in about 36 hours, the passenger-record jumbo jet, babies born on board. Confirm these are in the book, not only general knowledge.
+- Soviet immigration: about one million in the 1990s, high share of engineers and scientists, technology incubators.
+- Population growth: under 1 million in 1948 to about 7 million.
+- Al Schwimmer: surplus planes including bombers, front companies, conviction under U.S. neutrality laws and loss of some rights, Ben-Gurion's invitation, Israel Aircraft Industries. A later presidential pardon was left out.
+- Yozma: Yigal Erlich, about $100 million, ten funds, required foreign partner, cheap buyout option after about five years, failed earlier program (Inbal?). Specific growth figures (VC from about $58 million to over $3 billion a year during the 1990s?) were left out.
+- Netanyahu's reforms as finance minister in the early 2000s, and the "thin man carrying the fat man" image (book page only).
+- Lavi fighter cancellation releasing engineers (book page only). Confirm it is in the book and which chapter.
+- Singapore and Dubai comparisons, and the closing threats (low workforce participation among ultra-Orthodox men and Arab citizens, education slipping, brain drain). Confirm.
+- Ben-Gurion moving to a Negev kibbutz, and the link to drip irrigation / water technology (book page only).
+- Note: the book (2009) predates Better Place's later collapse. The card does not mention it.
+- Gal Mor: not recalled from the book, so no card was written.
