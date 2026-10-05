@@ -27,9 +27,14 @@ Normal Wikipedia is organized by **topic**. Mine should also be organized by **t
 2. Run `python build.py` in this folder. It regenerates `wiki-data.js` and checks the tags.
 3. Open `index.html` in a browser, or refresh it.
 
+## Depth Standard
+Pages should tell the book **in depth**, not summarize it.
+- **Book page** (`books/<book>.md`, `type: book`): the full story of the book, told part by part and chapter by chapter (`##` for parts, `###` for chapters), with the scenes, people, numbers and how the argument builds. It ends with **Key Ideas to Remember** and **How It Connects to My Library**. It appears at the top of the book's view in the app. Pilot: [books/sapiens.md](books/sapiens.md).
+- **Story cards**: 8–12 per book. "The Story" section is 700–1,000 words and retells that chapter as a narrative.
+
 ## Story Template
-Every story page has: **hook → story → lesson → when to use → try this → related → aha prompt**.
-See [stories/korean-air-power-distance.md](stories/korean-air-power-distance.md).
+Every story page has: **hook → story → details worth remembering → lesson → when to use → try this → related → aha prompt**.
+See [stories/sapiens-peugeot-shared-fictions.md](stories/sapiens-peugeot-shared-fictions.md).
 
 ## Accuracy Rule
 Drafts written with AI can misremember details. Every page has `verified_by_deep: false` until I've checked it against my memory or highlights. Each page cites its book and chapter.

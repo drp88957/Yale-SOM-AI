@@ -177,6 +177,9 @@
     font-family: var(--serif); font-size: 20px; text-align: center; padding: 20px;
     background: var(--accent-dim); border-radius: 10px;
   }
+  article h3 { font-family: var(--serif); font-weight: 500; font-size: 21px; margin: 26px 0 6px; line-height: 1.3; }
+  .toc { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 18px; }
+  .toc .chip { cursor: pointer; font-family: inherit; }
   .wikilink { border-bottom: 1px dotted var(--accent); }
   .wikilink.missing { color: var(--muted); border-bottom-color: var(--faint); cursor: help; }
   .tags-block { margin-top: 24px; padding-top: 6px; border-top: 1px solid var(--line); }
@@ -213,7 +216,10 @@
 <script src="wiki-data.js"></script>
 <script>
   const DATA = window.WIKI || {};
-  const pages = DATA.pages || [];
+  const allPages = DATA.pages || [];
+  // Story cards are the main unit; book pages ("the full story") are shown on each book's view
+  const pages = allPages.filter(p => p.type !== "book");
+  const bookPages = allPages.filter(p => p.type === "book");
   const library = DATA.library || [];
   const taxonomy = DATA.taxonomy || { situationGroups: [], concepts: [] };
   const shelves = [...new Set(library.map(b => b.category))];
@@ -238,6 +244,9 @@
         || library.find(b => norm(b.title).startsWith(n) || n.startsWith(norm(b.title)));
   }
   const pagesForBook = title => pages.filter(p => findBook(p.book)?.title === title);
+  const bookPageFor = title => bookPages.find(p => findBook(p.book)?.title === title);
+  const slugify = s => s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+  const jumpTo = id => document.getElementById(id)?.scrollIntoView({ behavior: "smooth", block: "start" });
   const countFor = (field, slug) => pages.filter(p => p[field].includes(slug)).length;
 
   // Saved sidebar state (which tab, which groups are open)
@@ -280,8 +289,9 @@
 
     for (const raw of md.split(/\r?\n/)) {
       const line = raw.trimEnd();
-      if (/^#\s/.test(line)) { flushPara(); closeList(); html += `<h1>${inline(line.slice(2))}</h1>`; }
-      else if (/^##\s/.test(line)) { flushPara(); closeList(); section = line.slice(3).trim().toLowerCase(); html += `<h2>${inline(line.slice(3))}</h2>`; }
+      if (/^###\s/.test(line)) { flushPara(); closeList(); html += `<h3>${inline(line.slice(4))}</h3>`; }
+      else if (/^#\s/.test(line)) { flushPara(); closeList(); html += `<h1>${inline(line.slice(2))}</h1>`; }
+      else if (/^##\s/.test(line)) { flushPara(); closeList(); section = line.slice(3).trim().toLowerCase(); html += `<h2 id="sec-${slugify(section)}">${inline(line.slice(3))}</h2>`; }
       else if (/^[-*]\s/.test(line)) { flushPara(); if (!list) { html += "<ul>"; list = true; } html += `<li>${inline(line.slice(2))}</li>`; }
       else if (/^>\s?/.test(line)) { flushPara(); closeList(); html += `<blockquote>${inline(line.replace(/^>\s?/, ""))}</blockquote>`; }
       else if (!line.trim()) { flushPara(); closeList(); }
@@ -292,7 +302,7 @@
   }
 
   // ---------- main views ----------
-  const card = p => `<a class="card" href="#/page/${p.slug}">
+  const card = p => `<a class="card" href="${p.type === "book" && findBook(p.book) ? bookHref(findBook(p.book).title) : `#/page/${p.slug}`}">
       <h4>${esc(p.title)}</h4>
       <p>${inline(p.hook || "")}</p>
       <div class="src">${esc(p.book || p.source)}</div>
@@ -356,10 +366,26 @@
     const b = library.find(x => x.title === title);
     if (!b) return `<div class="empty">Book not found.</div>`;
     const list = pagesForBook(title);
-    return `<p class="eyebrow"><a href="${shelfHref(b.category)}">${esc(b.category)}</a></p>
-      <h1 class="page-title">${esc(b.title)}</h1>
+    const full = bookPageFor(title);
+    const header = `<p class="eyebrow"><a href="${shelfHref(b.category)}">${esc(b.category)}</a></p>
+      <h1 class="page-title">${esc(b.title)}</h1>`;
+    if (!full) return `${header}
       <p class="page-sub">${esc(b.author)} · ${plural(list.length, "story")}</p>
       ${grid(list, "No stories from this book yet. It's on the to-do list.")}`;
+    const minutes = Math.max(1, Math.round(full.body.split(/\s+/).length / 230));
+    const parts = [...full.body.matchAll(/^## (.+)$/gm)].map(m => m[1].trim());
+    const toc = parts.map(t => `<button class="chip" onclick="jumpTo('sec-${slugify(t.toLowerCase())}')">${esc(t)}</button>`).join("")
+      + (list.length ? `<button class="chip" onclick="jumpTo('book-stories')">Story cards (${list.length})</button>` : "");
+    return `${header}
+      <p class="page-sub">${esc(b.author)} · the full story, ${minutes} min read · ${plural(list.length, "story")}</p>
+      <div class="meta-bar">
+        <span class="badge ${full.verified ? "verified" : "unverified"}">${full.verified ? "✓ verified by Deep" : "○ not yet verified"}</span>
+      </div>
+      <div class="toc">${toc}</div>
+      <article class="book-full">${renderMarkdown(full.body)}</article>
+      <h2 class="section-title" id="book-stories">Story cards</h2>
+      <p class="page-sub">Single stories from ${esc(b.title)}, each with its lesson and when to use it.</p>
+      ${grid(list, "No stories from this book yet.")}`;
   }
 
   function viewPage(slug) {
@@ -399,7 +425,7 @@
 
   function viewSearch(q) {
     const terms = q.toLowerCase().split(/\s+/).filter(Boolean);
-    const results = pages.map(p => {
+    const results = allPages.map(p => {
       const tags = [...p.situations.map(s => labelFor("situation", s)), ...p.concepts.map(c => labelFor("concept", c)), p.book]
         .join(" ").toLowerCase();
       let score = 0;
